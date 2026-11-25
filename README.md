@@ -69,7 +69,7 @@ Bazı hizmetlerde sabit başlangıç fiyatları, bazı hizmetlerde ise WhatsApp 
 Farklı hizmet alanlarını tek bir platformda birleştirmek, müşterilerin ihtiyaç duydukları hizmeti kolayca bulmalarını, fiyat bilgisi almalarını ve hızlı iletişim kurmalarını sağlamak.
 
 ---
-
+Link:www.cumhuriyetelektrik.com
 Proje: Cumhuriyet Çoklu Hizmet
 Kategori: Multi-Service Web Platform
 Tasarım: Responsive / Modern UI
